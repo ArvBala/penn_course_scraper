@@ -1,2 +1,7 @@
 # penn_course_scraper
-Scrapes the Graduate Course Catalog from the University of Pennsylvania
+
+This Python script scrapes the publicly available Graduate Course Catalog from the University of Pennsylvania.
+
+The script starts from here:
+
+https://catalog.upenn.edu/courses/
